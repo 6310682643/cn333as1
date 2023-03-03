@@ -1,5 +1,5 @@
 # cn333as1
-## NumberGuessingGame
+# NumberGuessingGame
 
 เกมทายตัวเลข ที่มีค่าตั้งแต่ 1-1000
 Using App :
