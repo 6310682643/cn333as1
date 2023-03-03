@@ -4,7 +4,7 @@
 เกมทายตัวเลข ที่มีค่าตั้งแต่ 1-1000
 Using App :
 
- ![App](NumberGuessingGame/app/src/main/res/drawable/cap3.png)
+ ![App](NumberGuessingGame/app/src/main/res/drawable/cap3.jpg)
 
 ## clipสาธิตการทำงานของเกมทายตัวเลข
 https://drive.google.com/file/d/1WVH_I-fq4ntn-8SRidNetnHlqNPKq5Al/view?usp=sharing
