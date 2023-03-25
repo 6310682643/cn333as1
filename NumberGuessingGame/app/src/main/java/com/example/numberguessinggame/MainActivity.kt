@@ -60,7 +60,7 @@ fun NumberGuessingGameScreen() {
         color = Color.White,
         modifier = Modifier
             .fillMaxWidth()
-            .background(Color(0xFF6200ED))
+            .background(Color(0xFFF9F5FF))
             .padding(15.dp)
     )
     Column(
