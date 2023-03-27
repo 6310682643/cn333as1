@@ -17,7 +17,7 @@ https://drive.google.com/file/d/1WVH_I-fq4ntn-8SRidNetnHlqNPKq5Al/view?usp=shari
 
 ## รูปแบบหน้าจอแสดงผล
 
-  ![Show Screen](NumberGuessingGame/app/src/main/res/drawable/Screen.png)
+  ![Show Screen](NumberGuessingGame/app/src/main/res/drawable/screen.png)
 
 ## การทำงานของเกม
 
